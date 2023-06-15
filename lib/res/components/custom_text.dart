@@ -5,14 +5,14 @@ import 'package:meetup_planner/res/extensions/size_extension.dart';
 class CustomText extends StatelessWidget {
   final String title;
   final double fontsize;
-  final Color fontcolor;
+  final Color? fontcolor;
   final FontWeight fontweight;
   final TextAlign textalign;
   const CustomText({
     super.key,
     required this.title,
     this.fontsize = 18,
-    this.fontcolor = AppColor.primaryColor,
+    this.fontcolor,
     this.fontweight = FontWeight.normal,
     this.textalign = TextAlign.start,
   });

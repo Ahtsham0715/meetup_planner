@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38172759846",
+    "project_id": "meetup-planner-44ff3",
+    "storage_bucket": "meetup-planner-44ff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38172759846:android:8de654be78b59c7dc993e7",
+        "android_client_info": {
+          "package_name": "com.example.meetup_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38172759846-5ftrdjh0lcaf869prb3tmd0sunj4b1lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGog7Y6dHZeiHdGj6MT7-XxIzpsnklxOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38172759846-5ftrdjh0lcaf869prb3tmd0sunj4b1lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
